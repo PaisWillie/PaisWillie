@@ -12,6 +12,20 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaisWillie&hide=Turing&layout=compact&border_radius=7&langs_count=6" />
 </div>
 
-![Follow me on GitHub](https://img.shields.io/github/followers/PaisWillie?label=Followers&logoColor=blue&style=social)
-[![Follow me on Linkedin](https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/willie-pai/)
-[![Follow me on Linkedin](https://img.shields.io/badge/Instagram-Profile-informational?style=social&logo=instagram&logoColor=blue)](https://www.instagram.com/paiswillie/)
+<br>
+
+<div align="center">
+
+<a>
+    <img align="center" src="https://img.shields.io/github/followers/PaisWillie?label=Followers&logoColor=blue&style=social"/>
+</a>
+
+<a href="https://www.linkedin.com/in/willie-pai/">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue"/>
+</a>
+
+<a href="https://www.instagram.com/paiswillie/">
+    <img align="center" src="https://img.shields.io/badge/Instagram-Profile-informational?style=social&logo=instagram&logoColor=blue"/>
+</a>
+
+</div>
