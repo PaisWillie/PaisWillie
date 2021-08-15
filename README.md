@@ -3,7 +3,7 @@
 <!-- Add an href="<link>" to make image clickable -->
 <a>
     <!-- Currently hiding PRs from statistics -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaisWillie&count_private=true&show_icons=true&hide=prs&border_radius=7&include_all_commits=truehide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaisWillie&count_private=true&show_icons=true&hide=prs&border_radius=7&include_all_commits=true&hide_border=true" />
 </a>
 
 <a>
