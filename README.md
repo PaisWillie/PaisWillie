@@ -3,12 +3,12 @@
 <!-- Add an href="<link>" to make image clickable -->
 <a>
     <!-- Currently hiding PRs from statistics -->
-    <img align="center" width="495" src="https://github-readme-stats.vercel.app/api?username=PaisWillie&count_private=true&show_icons=true&hide=prs&border_radius=7&include_all_commits=truehide_border=true" />
+    <img align="center" width="490" src="https://github-readme-stats.vercel.app/api?username=PaisWillie&count_private=true&show_icons=true&hide=prs&border_radius=7&include_all_commits=truehide_border=true" />
 </a>
 
 <a>
     <!-- Currently hiding Turing from statistics -->
-    <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaisWillie&hide=Turing&layout=compact&border_radius=7&langs_count=6" />
+    <img align="center" width="345" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaisWillie&hide=Turing&layout=compact&border_radius=7&langs_count=6" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
