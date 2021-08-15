@@ -1,16 +1,12 @@
-### Hi there 👋
+[![Header](/Assets/Images/Header.png "Header")](https://www.linkedin.com/in/willie-pai/)
 
-<!--
-**PaisWillie/PaisWillie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Add an href="<link>" to make image clickable -->
+<a href="">
+    <!-- Currently hiding PRs from statistics -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaisWillie&count_private=true&show_icons=true&hide=prs&border_radius=7" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="">
+    <!-- Currently hiding Turing from statistics -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaisWillie&hide=Turing&layout=compact&border_radius=7" />
+</a>
