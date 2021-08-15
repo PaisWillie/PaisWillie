@@ -4,7 +4,7 @@
 <div align="center">
 <a>
     <!-- Currently hiding PRs from statistics -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaisWillie&count_private=true&show_icons=true&hide=prs&border_radius=7&include_all_commits=true&hide_border=true&hide_rank=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PaisWillie&count_private=true&show_icons=true&hide=prs&border_radius=7&include_all_commits=true&hide_rank=true" />
 </a>
 
 <a>
@@ -29,3 +29,7 @@
 </a>
 
 </div>
+
+<br>
+
+---
