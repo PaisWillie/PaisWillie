@@ -14,3 +14,7 @@
 <a href="">
     <img align="center" src="Assets/Icons/Linkedin.png" />
 </a>
+
+<a href="">
+    <img align="center" src="Assets/Icons/Instagram.png" />
+</a>
