@@ -21,11 +21,11 @@
 </a>
 
 <a href="https://www.linkedin.com/in/willie-pai/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue"/>
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=blue&label=/in/willie-pai"/>
 </a>
 
 <a href="https://www.instagram.com/paiswillie/">
-    <img align="center" src="https://img.shields.io/badge/Instagram-Profile-informational?style=social&logo=instagram&logoColor=blue"/>
+    <img align="center" src="https://img.shields.io/badge/Instagram-Profile-informational?style=social&logo=instagram&logoColor=blue&label=PaisWillie"/>
 </a>
 
 </div>
