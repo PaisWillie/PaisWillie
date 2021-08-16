@@ -38,11 +38,13 @@
 import SoftwareDeveloper from 'PaisWillie';
 
 class Bio extends SoftwareDeveloper {
-    name    = 'Willie Pai';
-    title   = 'Software Engineering & Management Student';
-    future  = 'Flutter Mobile App Developer';
-    company = 'WaveDirect | Remote';
-    location = 'Markham, Ontario, Canada';
+    name        = 'Willie Pai';
+    title       = 'Software Engineering & Management Student';
+    school      = 'McMaster University'
+    future      = 'Flutter Mobile App Developer';
+    position    = 'Software Developer'
+    company     = 'WaveDirect | Remote';
+    location    = 'Markham, Ontario, Canada';
 }
 
 class Skills extends SoftwareDeveloper {
