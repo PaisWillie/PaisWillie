@@ -33,3 +33,21 @@
 <br>
 
 ---
+
+```js
+import SoftwareDeveloper from 'PaisWillie';
+
+class Bio extends SoftwareDeveloper {
+    name    = 'Willie Pai';
+    title   = 'Software Engineering & Management Student';
+    future  = 'Flutter Mobile App Developer';
+    company = 'WaveDirect | Remote';
+    location = 'Markham, Ontario, Canada';
+}
+
+class Skills extends SoftwareDeveloper {
+    languages   = ['Python', 'Java', 'Dart', 'Assembly', 'HTML', 'CSS', 'Javascript'];
+    databases   = ['MySQL']
+    frameworks  = ['Flutter', 'Vue JS', 'GraphQL'];
+}
+```
