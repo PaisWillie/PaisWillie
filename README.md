@@ -9,7 +9,7 @@
 
 <a>
     <!-- Currently hiding Turing from statistics -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaisWillie&hide=Turing&layout=compact&border_radius=7&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaisWillie&layout=compact&border_radius=7&langs_count=6" />
 </div>
 
 <br>
