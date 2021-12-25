@@ -40,7 +40,7 @@ class Bio extends SoftwareDeveloper {
     name        = 'Willie Pai';
     title       = 'Software Engineering & Management Student';
     school      = 'McMaster University'
-    future      = 'Flutter Mobile App Developer';
+    future      = 'Front-End Developer';
     location    = 'Markham, Ontario, Canada';
 }
     
