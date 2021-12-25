@@ -41,9 +41,13 @@ class Bio extends SoftwareDeveloper {
     title       = 'Software Engineering & Management Student';
     school      = 'McMaster University'
     future      = 'Flutter Mobile App Developer';
+    location    = 'Markham, Ontario, Canada';
+}
+    
+class Experience extends SoftwareDeveloper {
     position    = 'Software Developer'
     company     = 'WaveDirect | Remote';
-    location    = 'Markham, Ontario, Canada';
+    location    = 'Leamington, Ontario, Canada';
 }
 
 class Skills extends SoftwareDeveloper {
