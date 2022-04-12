@@ -45,7 +45,7 @@ class Bio extends SoftwareDeveloper {
 }
     
 class Experience extends SoftwareDeveloper {
-    position    = 'Software Developer'
+    position    = 'Front-End Developer'
     company     = 'InsideDesk | Remote';
     location    = 'Toronto, Ontario, Canada';
 }
