@@ -53,6 +53,6 @@ class Experience extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
     languages   = ['Python', 'Java', 'Dart', 'Assembly', 'HTML', 'CSS', 'Javascript'];
     databases   = ['MySQL']
-    frameworks  = ['Flutter', 'Vue JS', 'GraphQL'];
+    frameworks  = ['React JS', 'Flutter', 'Vue JS', 'GraphQL'];
 }
 ```
