@@ -38,7 +38,7 @@ import SoftwareDeveloper from 'PaisWillie';
 
 class Bio extends SoftwareDeveloper {
     name        = 'Willie Pai';
-    title       = 'Software Engineering & Management Student';
+    title       = 'Software Engineering Student';
     school      = 'McMaster University'
     future      = 'Front-End Developer';
     location    = 'Markham, Ontario, Canada';
@@ -46,8 +46,8 @@ class Bio extends SoftwareDeveloper {
     
 class Experience extends SoftwareDeveloper {
     position    = 'Software Developer'
-    company     = 'WaveDirect | Remote';
-    location    = 'Leamington, Ontario, Canada';
+    company     = 'InsideDesk | Remote';
+    location    = 'Toronto, Ontario, Canada';
 }
 
 class Skills extends SoftwareDeveloper {
