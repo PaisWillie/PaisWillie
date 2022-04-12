@@ -50,13 +50,13 @@ class Experience extends SoftwareDeveloper {
         position    = 'Software Developer Intern'
         company     = 'WaveDirect | Remote';
         location    = 'Leamington, Ontario, Canada';
-    }
+    };
     
     positionTwo : {
         position    = 'Front-End Developer Intern'
         company     = 'InsideDesk | Remote';
         location    = 'Toronto, Ontario, Canada';
-    }
+    };
     
 }
 
