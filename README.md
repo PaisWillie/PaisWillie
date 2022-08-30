@@ -62,6 +62,7 @@ class Experience extends SoftwareDeveloper {
 
 class Skills extends SoftwareDeveloper {
     languages   = ['HTML5', 'CSS3', 'Javascript', 'TypeScript', 'Python', 'Java', 'Dart', 'Assembly', 'C', 'MySQL'];
+    tools       = ['Figma', 'Adobe XD', 'Tailwind CSS', 'React MUI']
     frameworks  = ['React JS', 'Flutter', 'Angular JS', 'Vue JS', 'GraphQL'];
 }
 ```
