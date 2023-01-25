@@ -53,9 +53,9 @@ class Experience extends SoftwareDeveloper {
     };
     
     positionTwo : {
-        position    = 'Front-End Developer Intern'
+        position    = 'Software Engineer Intern'
         company     = 'InsideDesk | Remote';
-        location    = 'Toronto, Ontario, Canada';
+        location    = 'Oakville, Ontario, Canada';
     };
     
 }
