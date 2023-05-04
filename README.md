@@ -63,6 +63,6 @@ class Experience extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
     languages   = ['HTML5', 'CSS3', 'Javascript ES6', 'TypeScript', 'Python', 'Java', 'Dart', 'C', 'Bash Scripting', 'MATLAB', 'SQL'];
     tools       = ['Figma', 'Adobe XD', 'Tailwind CSS', 'Git']
-    frameworks  = ='React JS', 'Flutter', 'Angular JS', 'Vue JS', 'Node JS', 'Express JS', 'PyQt'];
+    frameworks  = ['React JS', 'Flutter', 'Angular JS', 'Vue JS', 'Node JS', 'Express JS', 'PyQt'];
 }
 ```
