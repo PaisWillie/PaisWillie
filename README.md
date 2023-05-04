@@ -47,15 +47,15 @@ class Bio extends SoftwareDeveloper {
 class Experience extends SoftwareDeveloper {
     
     positionOne = {
-        position    : 'Software Developer Intern'
-        company     : 'WaveDirect | Remote';
-        location    : 'Leamington, Ontario, Canada';
+        position    : 'Software Developer Intern',
+        company     : 'WaveDirect | Remote',
+        location    : 'Leamington, Ontario, Canada',
     };
     
     positionTwo = {
-        position    : 'Software Engineer Intern'
-        company     : 'InsideDesk | Remote';
-        location    : 'Oakville, Ontario, Canada';
+        position    : 'Software Engineer Intern,
+        company     : 'InsideDesk | Remote',
+        location    : 'Oakville, Ontario, Canada',
     };
     
 }
