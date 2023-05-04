@@ -40,29 +40,29 @@ class Bio extends SoftwareDeveloper {
     name        = 'Willie Pai';
     title       = 'Software Engineering Student';
     school      = 'McMaster University'
-    future      = 'Front-End Developer';
+    future      = 'Mobile Application Developer';
     location    = 'Markham, Ontario, Canada';
 }
     
 class Experience extends SoftwareDeveloper {
     
-    positionOne : {
-        position    = 'Software Developer Intern'
-        company     = 'WaveDirect | Remote';
-        location    = 'Leamington, Ontario, Canada';
+    positionOne = {
+        position    : 'Software Developer Intern'
+        company     : 'WaveDirect | Remote';
+        location    : 'Leamington, Ontario, Canada';
     };
     
-    positionTwo : {
-        position    = 'Software Engineer Intern'
-        company     = 'InsideDesk | Remote';
-        location    = 'Oakville, Ontario, Canada';
+    positionTwo = {
+        position    : 'Software Engineer Intern'
+        company     : 'InsideDesk | Remote';
+        location    : 'Oakville, Ontario, Canada';
     };
     
 }
 
 class Skills extends SoftwareDeveloper {
-    languages   = ['HTML5', 'CSS3', 'Javascript', 'TypeScript', 'Python', 'Java', 'Dart', 'Assembly', 'C', 'MySQL'];
-    tools       = ['Figma', 'Adobe XD', 'Tailwind CSS', 'React MUI']
-    frameworks  = ['React JS', 'Flutter', 'Angular JS', 'Vue JS', 'GraphQL'];
+    languages   = ['HTML5', 'CSS3', 'Javascript ES6', 'TypeScript', 'Python', 'Java', 'Dart', 'C', 'Bash Scripting', 'MATLAB', 'SQL'];
+    tools       = ['Figma', 'Adobe XD', 'Tailwind CSS', 'Git']
+    frameworks  = ='React JS', 'Flutter', 'Angular JS', 'Vue JS', 'Node JS', 'Express JS', 'PyQt'];
 }
 ```
