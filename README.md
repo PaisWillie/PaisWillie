@@ -50,12 +50,14 @@ class Experience extends SoftwareDeveloper {
         position    : 'Software Developer Intern',
         company     : 'WaveDirect | Remote',
         location    : 'Leamington, Ontario, Canada',
+        date        : 'May 2021 - August 2021',
     };
     
     positionTwo = {
         position    : 'Software Engineer Intern,
         company     : 'InsideDesk | Remote',
         location    : 'Oakville, Ontario, Canada',
+        date        : 'May 2022 - September 2022',
     };
     
 }
