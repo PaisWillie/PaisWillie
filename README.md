@@ -54,7 +54,7 @@ class Experience extends SoftwareDeveloper {
     };
     
     positionTwo = {
-        position    : 'Software Engineer Intern,
+        position    : 'Software Engineer Intern',
         company     : 'InsideDesk | Remote',
         location    : 'Oakville, Ontario, Canada',
         date        : 'May 2022 - September 2022',
@@ -62,7 +62,7 @@ class Experience extends SoftwareDeveloper {
 
 
     positionThree = {
-        position    : 'Software Developer Intern,
+        position    : 'Software Developer Intern',
         company     : 'SOTI Inc. | Hybrid',
         location    : 'Mississauga, Ontario, Canada',
         date        : 'September 2023 - August 2024',
